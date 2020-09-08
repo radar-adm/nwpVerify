@@ -1,4 +1,10 @@
 # nwpVerify
+
+require module :: 
+xlrd
+pandas
+numpy
+
 Add GRIB directory in "data" 
 ---> format "yyyymm" ... ex. "202003"
 ---> csv name format : "grib_yyyymmdd.csv" ex."grib_20200301.csv"
