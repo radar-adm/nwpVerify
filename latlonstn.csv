@@ -1,0 +1,122 @@
+lon.1,97.83333,lat.1,19.3,stn.1,Mae Hong Son
+lon.2,97.93333,lat.2,18.16667,stn.2,Mae Sariang
+lon.3,99.88139,lat.3,19.96139,stn.3,Chiang Rai
+lon.4,99.78278,lat.4,19.87083,stn.4,Chiang Rai agr
+lon.5,99.9,lat.5,19.1333,stn.5,Phayao
+lon.6,98.97255,lat.6,18.77127,stn.6,Chiang Mai
+lon.7,99.04833,lat.7,19.93138,stn.7,Doi Angkhlang
+lon.8,100.77777,lat.8,18.77972,stn.8,Nan
+lon.9,100.75,lat.9,18.86666,stn.9,Nan Agr
+lon.10,100.8025,lat.10,19.110556,stn.10,Tha Wang Pha hydro
+lon.11,100.88611,lat.11,19.40805556,stn.11,Thung Chang hydro
+lon.12,99.033333,lat.12,18.5666666,stn.12,Lamphun
+lon.13,99.506624,lat.13,18.2783371,stn.13,Lampang
+lon.14,99.283333,lat.14,18.3166666,stn.14,Lampang agr
+lon.15,99.244716,lat.15,17.6363235,stn.15,Thoen
+lon.16,100.166667,lat.16,18.1666666,stn.16,Phrae
+lon.17,100.095658,lat.17,17.6248008,stn.17,Uttaradit
+lon.18,99.8,lat.18,17.1,stn.18,Sukhothai
+lon.19,99.8666667,lat.19,17.1666666,stn.19,Si Samrong agr
+lon.20,99.0530556,lat.20,17.2333333,stn.20,Bhumibol Dam
+lon.21,99.0098333,lat.21,16.8779722,stn.21,Tak
+lon.22,98.5583333,lat.22,16.6591666,stn.22,Mae Sot
+lon.23,98.8655555,lat.23,16.0158333,stn.23,Um Phang hydro
+lon.24,98.9333333,lat.24,16.75,stn.24,Doi Muser agr
+lon.25,100.275881,lat.25,16.7963951,stn.25,Phitsanulok
+lon.26,101.246666,lat.26,16.7736111,stn.26,Lom Sak hydro
+lon.27,101.15,lat.27,16.4333333,stn.27,Phetchabun
+lon.28,101.108333,lat.28,15.6569444,stn.28,Wichian Buri hydro
+lon.29,99.5269382,lat.29,16.4866375,stn.29,Kamphaeng Phet
+lon.30,100.285505,lat.30,16.4377677,stn.30,Phichit agr
+lon.31,102.7473486,lat.31,17.865132,stn.31,Nong Khai
+lon.32,101.7306465,lat.32,17.4528926,stn.32,Loei
+lon.33,101.7297667,lat.33,17.4093496,stn.33,Loei agr
+lon.34,102.8058529,lat.34,17.3786222,stn.34,Udon Thani
+lon.35,104.7785962,lat.35,17.4120855,stn.35,Nakhon Phanom
+lon.36,104.7697717,lat.36,17.277857,stn.36,Nakhon Phanom agr
+lon.37,104.1332459,lat.37,17.1565353,stn.37,Sakon Nakhon
+lon.38,104.05,lat.38,17.1166666,stn.38,Sakon Nakhon agr
+lon.39,102.4295556,lat.39,17.2323888,stn.39,Nong Bua lumphu
+lon.40,104.7250539,lat.40,16.5430349,stn.40,Mukdahan
+lon.41,102.7856773,lat.41,16.4625514,stn.41,Khon Kaen
+lon.42,102.8232122,lat.42,16.3377589,stn.42,Tha Pra agr
+lon.43,103.0680556,lat.43,16.2472222,stn.43,Kosum Phisai hydro
+lon.44,103.5883333,lat.44,16.3325,stn.44,Kamalasai hydro
+lon.45,103.6833333,lat.45,16.05,stn.45,Roi Et
+lon.46,103.6166667,lat.46,16.0600007,stn.46,Roi Et agr
+lon.47,102.0242626,lat.47,15.8073359,stn.47,Chaiyaphum
+lon.48,104.871347,lat.48,15.2457082,stn.48,Ubon Ratchathani
+lon.49,105.019593,lat.49,15.240489,stn.49,Ubon Ratchathani agr
+lon.50,104.2843133,lat.50,15.1085776,stn.50,Si Saket agr
+lon.51,103.6791667,lat.51,15.319444,stn.51,Tha Tum hydro
+lon.52,103.4958941,lat.52,14.8754776,stn.52,Surin
+lon.53,103.4491754,lat.53,14.8924291,stn.53,Surin agr
+lon.54,102.0766667,lat.54,14.9627778,stn.54,Nakhon Ratchasima
+lon.55,101.3181442,lat.55,14.6438795,stn.55,Pak Chong agr
+lon.56,102.1648425,lat.56,14.739511,stn.56,Chok Chai hydro
+lon.57,103.2333333,lat.57,15.2333333,stn.57,Buriram
+lon.58,102.7178657,lat.58,14.6330327,stn.58,Nang Rong hydro
+lon.59,100.1355,lat.59,15.6699722,stn.59,Nakhonsawan
+lon.60,100.5305135,lat.60,15.3497136,stn.60,Tak Fa agr
+lon.61,100.1833333,lat.61,15.15,stn.61,Chai Nat
+lon.62,100.7277778,lat.62,14.5333333,stn.62,Ayutthaya agr
+lon.63,101.1908611,lat.63,15.2649444,stn.63,Bua Chum hydro
+lon.64,100.6166667,lat.64,14.8,stn.64,Lop Buri
+lon.65,100.1333333,lat.65,14.4666667,stn.65,Suphan Buri
+lon.66,99.86666667,lat.66,14.3,stn.66,U Thong agr
+lon.67,98.63638889,lat.67,14.7422222,stn.67,Thong Pha Phum
+lon.68,99.53333333,lat.68,14.0166667,stn.68,Kanchana Buri
+lon.69,99.7975,lat.69,13.4872222,stn.69,Ratcha Buri agr
+lon.70,99.96666667,lat.70,14.0166667,stn.70,Kampheangsaen agr
+lon.71,100.6333333,lat.71,14.1166667,stn.71,Pathum Thani agr
+lon.72,100.7616667,lat.72,13.5166667,stn.72,Samut Prakan
+lon.73,100.7675,lat.73,13.6863889,stn.73,Suvarnabhumi Airport
+lon.74,100.605,lat.74,13.919167,stn.74,Don Mueang Airport
+lon.75,100.56,lat.75,13.7263889,stn.75,Sirikit Center
+lon.76,100.56,lat.76,13.6981111,stn.76,Bangkok Port
+lon.77,100.616667,lat.77,13.6666667,stn.77,Bangna agr
+lon.78,100.8917,lat.78,13.4566666,stn.78,Bangkok Pilot
+lon.79,101.3728889,lat.79,14.04936111,stn.79,Prachin Buri
+lon.80,101.7079722,lat.80,13.9845,stn.80,Kabin Buri hydro
+lon.81,102.0359722,lat.81,13.79038889,stn.81,Sa Kaeo hydro
+lon.82,102.5076389,lat.82,13.68733333,stn.82,Aranyaprathet
+lon.83,101.4578333,lat.83,13.56580556,stn.83,Chachoengsao agr
+lon.84,100.9833333,lat.84,13.36666667,stn.84,Chon Buri
+lon.85,100.9856677,lat.85,13.35391667,stn.85,Laem Chabang
+lon.86,100.8061389,lat.86,13.16108333,stn.86,Ko Sichang
+lon.87,100.8694444,lat.87,12.92,stn.87,Pattaya
+lon.88,101.4356666,lat.88,12.62351111,stn.88,Sattahip
+lon.89,101.3458333,lat.89,12.63472222,stn.89,Rayong
+lon.90,101.1333333,lat.90,12.73333333,stn.90,Huai Pong agr
+lon.91,102.1074444,lat.91,12.60813889,stn.91,Chanthaburi
+lon.92,102.1731667,lat.92,12.50863889,stn.92,Pluei agr
+lon.93,102.8818,lat.93,11.77830556,stn.93,Khlong Yai
+lon.94,100.0666667,lat.94,13.15,stn.94,Phetcha Buri
+lon.95,99.73333333,lat.95,12.58333333,stn.95,Nongplub agr
+lon.96,99.96,lat.96,12.58611111,stn.96,Hua hin
+lon.97,98.83333333,lat.97,11.83333333,stn.97,Prachuap Khirikhan
+lon.98,99.18333333,lat.98,10.48333333,stn.98,Chumphon
+lon.99,99.1,lat.99,10.33333333,stn.99,Sawee agr
+lon.100,99.1519444,lat.100,9.13555555,stn.100,Surat Thani
+lon.101,99.6630556,lat.101,9.13888889,stn.101,Surat Thani agr
+lon.102,100.05,lat.102,9.46666667,stn.102,Ko Samui
+lon.103,99.255,lat.103,8.56583333,stn.103,Phra saeng hydro
+lon.104,99.5119444,lat.104,8.43194444,stn.104,Chawang hydro
+lon.105,99.9666667,lat.105,8.41666667,stn.105,Nakhon Si Thammarat
+lon.106,99.8611111,lat.106,9.23916667,stn.106,Nakhon Si Thammarat agr
+lon.107,100.166667,lat.107,7.58333333,stn.107,Phatthalung agr
+lon.108,100.604722,lat.108,7.20388889,stn.108,Songkhla
+lon.109,100.433333,lat.109,6.91666667,stn.109,Hat Yai
+lon.110,100.5,lat.110,7.01666667,stn.110,Kho Hong agr
+lon.111,100.394167,lat.111,6.79666666,stn.111,Sadao hydro
+lon.112,101.15,lat.112,6.78333333,stn.112,Pattani
+lon.113,100.345122,lat.113,6.43566666,stn.113,Yala agr
+lon.114,101.81667,lat.114,6.4166667,stn.114,Narathiwat
+lon.115,98.616667,lat.115,9.9833333,stn.115,Ranong
+lon.116,98.252222,lat.116,8.6841667,stn.116,Takau PA
+lon.117,98.4,lat.117,7.8833333,stn.117,Phuket
+lon.118,98.314444,lat.118,8.1166667,stn.118,Phuket Airport
+lon.119,98.616667,lat.119,7.5166667,stn.119,Krabi
+lon.120,99.05,lat.120,7.5333333,stn.120,Ko Lanta
+lon.121,99.616667,lat.121,7.5166667,stn.121,Trang
+lon.122,100.08333,lat.122,6.65,stn.122,Satun
